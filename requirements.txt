@@ -3,6 +3,3 @@ PyPDF2
 reportlab
 python-docx
 nltk
-langchain
-langchain-huggingface
-huggingface-hub
